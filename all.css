@@ -141,6 +141,7 @@ a{
 .info-img{
   width: 50%;
   height: auto;
+  display: block;
 }
 .info-right{
   width: 50%;
