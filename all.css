@@ -49,6 +49,7 @@ table {
 img{
     max-width: 100%;
     height: auto;
+    vertical-align: middle;
 }
 a{
     text-decoration: none;
@@ -99,7 +100,7 @@ a{
 }
 .hero-text{
      position: absolute;
-  top: 15%;
+  top: 30%;
   left: 10%;
    color: #0027D5;
   font-weight: bold;
@@ -143,6 +144,7 @@ a{
   height: auto;
   display: block;
 }
+
 .info-right{
   width: 50%;
   padding-right: 5%;
